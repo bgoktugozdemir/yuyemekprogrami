@@ -34,5 +34,23 @@
     "mainCourse": "Tavuk Sote",
     "riceVarieties": "Biberli Erişte",
     "finalCourse": "Haşhaşlı Revani"
+  },
+  {
+    "id": 5,
+    "date": "2019-02-13",
+    "meal": 0,
+    "soup": "Yayla Çorbası",
+    "mainCourse": "Kıymalı Patlıcan Musakka",
+    "riceVarieties": "Bulgur Pilavı",
+    "finalCourse": "Meyve"
+  },
+  {
+    "id": 6,
+    "date": "2019-02-13",
+    "meal": 1,
+    "soup": "Sebze Çorbası",
+    "mainCourse": "Etli Kuru Fasülye",
+    "riceVarieties": "Pirinç Pilavı",
+    "finalCourse": "Turşu"
   }
 ]
