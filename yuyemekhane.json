@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "date": "12.02.2019",
+    "date": "2019/02/12",
     "meal": 0,
     "soup": "Mercimek Çorbası",
     "mainCourse": "Püreli Tas Kebabı",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "date": "12.02.2019",
+    "date": "2019/02/12",
     "meal": 1,
     "soup": "Mercimek Çorbası",
     "mainCourse": "Tavuk Sote",
