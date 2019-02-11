@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "date": "12.02.2019",
+    "meal": 0,
+    "soup": "Mercimek Çorbası",
+    "mainCourse": "Püreli Tas Kebabı",
+    "riceVarieties": "Biberli Erişte",
+    "finalCourse": "Yoğurtlu Pancar Salatası"
+  },
+  {
+    "id": 2,
+    "date": "12.02.2019",
+    "meal": 1,
+    "soup": "Mercimek Çorbası",
+    "mainCourse": "Tavuk Sote",
+    "riceVarieties": "Biberli Erişte",
+    "finalCourse": "Haşhaşlı Revani"
+  }
+]
