@@ -52,5 +52,23 @@
     "mainCourse": "Etli Kuru Fasülye",
     "riceVarieties": "Pirinç Pilavı",
     "finalCourse": "Turşu"
+  },
+  {
+    "id": 7,
+    "date": "2019-02-14",
+    "meal": 0,
+    "soup": "Domates Çorbası",
+    "mainCourse": "Terbiyeli Köfte",
+    "riceVarieties": "Soslu Makarna",
+    "finalCourse": "Browni"
+  },
+  {
+    "id": 8,
+    "date": "2019-02-14",
+    "meal": 1,
+    "soup": "Yayla Çorbası",
+    "mainCourse": "Etli Türlü",
+    "riceVarieties": "Bulgur Pilavı",
+    "finalCourse": "Browni"
   }
 ]
