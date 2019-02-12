@@ -106,5 +106,23 @@
     "mainCourse": "Mengen Musakka",
     "riceVarieties": "Pirinç Pilavı",
     "finalCourse": "Cacık"
+  },
+  {
+    "id": 13,
+    "date": "2019-02-19",
+    "meal": 0,
+    "soup": "Mantar Çorbası",
+    "mainCourse": "Hasan Paşa Köfte",
+    "riceVarieties": "Soslu Makarna",
+    "finalCourse": "Cacık"
+  },
+  {
+    "id": 14,
+    "date": "2019-02-19",
+    "meal": 1,
+    "soup": "Tel Şehriye Çorbası",
+    "mainCourse": "Bahçıvan Kebabı",
+    "riceVarieties": "Bulgur Pilavı",
+    "finalCourse": "İrmik Helvası"
   }
 ]
