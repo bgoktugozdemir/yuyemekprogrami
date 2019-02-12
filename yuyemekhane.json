@@ -88,5 +88,23 @@
     "mainCourse": "Şelale Köfte",
     "riceVarieties": "Peynirli Makarna",
     "finalCourse": "Ayva Kompostosu"
+  },
+  {
+    "id": 11,
+    "date": "2019-02-18",
+    "meal": 0,
+    "soup": "Tavuk Suyu Çorbası",
+    "mainCourse": "Gemici Usülü Kuru Fasulye",
+    "riceVarieties": "Pirinç Pilavı",
+    "finalCourse": "Turşu"
+  },
+  {
+    "id": 12,
+    "date": "2019-02-18",
+    "meal": 1,
+    "soup": "Tavuk Suyu Çorbası",
+    "mainCourse": "Mengen Musakka",
+    "riceVarieties": "Pirinç Pilavı",
+    "finalCourse": "Cacık"
   }
 ]
