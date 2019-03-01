@@ -250,5 +250,23 @@
     "mainCourse": "Etli Kuru Fasulye",
     "riceVarieties": "Pirinç Pilavı",
     "finalCourse": "Turşu"
+  },
+  {
+    "id": 29,
+    "date": "2019-03-01",
+    "meal": 0,
+    "soup": "Mercimek Çorbası",
+    "mainCourse": "Patates Musakka",
+    "riceVarieties": "Peynirli Makarna",
+    "finalCourse": "Meyve"
+  },
+  {
+    "id": 30,
+    "date": "2019-03-01",
+    "meal": 1,
+    "soup": "Mercimek Çorbası",
+    "mainCourse": "Etli Türlü",
+    "riceVarieties": "Peynirli Makarna",
+    "finalCourse": "Meyve"
   }
 ]
