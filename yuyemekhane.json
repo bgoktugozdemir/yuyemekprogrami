@@ -305,5 +305,14 @@
    "mainCourse": "TAVUK SOTE",
    "riceVarieties": "MEYHANE PİLAVI",
    "finalCourse": "MEYVE"
-  }
+  },
+  {
+    "id":35,
+   "date": "2019-03-06",
+   "meal": 0,
+   "soup": "MERCİMEK ÇORBA",
+   "mainCourse": "TAS KEBABI",
+   "riceVarieties": "BULGUR PİLAVI",
+   "finalCourse": "ŞEKERPARE"
+}
 ]
