@@ -289,7 +289,7 @@
     "finalCourse": "Yoğurt"
   },
   {
-   "id":33
+   "id":33,
    "date": "2019-03-05",
    "meal": 0,
    "soup": "DOMATES ÇORBA",
@@ -298,7 +298,7 @@
    "finalCourse": "CACIK"
   },
   {
-   "id":34
+   "id":34,
    "date": "2019-03-05",
    "meal": 1,
    "soup": "EZOGELİN ÇORBA",
