@@ -1,0 +1,322 @@
+[
+  {
+    "date": "2019-02-01",
+    "meal": 0,
+    "soup": "MERCİMEK ÇORBA",
+    "mainCourse": "FIRIN TAVUK(ELMA DİL. PAT)",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "SALATA"
+  },
+  {
+    "date": "2019-02-04",
+    "meal": 0,
+    "soup": "TEL ŞEHRİYE ÇORBA",
+    "mainCourse": "ETLİ KURU FASÜLYE",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "TURŞU"
+  },
+  {
+    "date": "2019-02-05",
+    "meal": 0,
+    "soup": "MERCİMEK ÇORBA",
+    "mainCourse": "İZMİR KÖFTE",
+    "riceVarieties": "GÖKKUŞAĞI PİLAVI",
+    "finalCourse": "MEYVE"
+  },
+  {
+    "date": "2019-02-06",
+    "meal": 0,
+    "soup": "SEBZE ÇORBA",
+    "mainCourse": "FIRIN TAVUK (PATATES KIZARTMA)",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "SALATA"
+  },
+  {
+    "date": "2019-02-07",
+    "meal": 0,
+    "soup": "YAYLA ÇORBA",
+    "mainCourse": "ETLİ TÜRLÜ",
+    "riceVarieties": "BULGUR PİLAVI",
+    "finalCourse": "HAŞHAŞLI REVANİ"
+  },
+  {
+    "date": "2019-02-08",
+    "meal": 0,
+    "soup": "EZOGELİN ÇORBA",
+    "mainCourse": "KIYMALI ISPANAK GRATEN",
+    "riceVarieties": "SOSLU MAKARNA",
+    "finalCourse": "YOĞURT"
+  },
+  {
+    "date": "2019-02-11",
+    "meal": 0,
+    "soup": "TEL ŞEHRİYE ÇORBA",
+    "mainCourse": "ARNAVUT CİĞERİ",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "AYRAN"
+  },
+  {
+    "date": "2019-02-12",
+    "meal": 0,
+    "soup": "MERCİMEK ÇORBA",
+    "mainCourse": "TAS KEBABI (PÜRELİ)",
+    "riceVarieties": "BİBERLİ ERİŞTE",
+    "finalCourse": "YOĞURTLU PANCAR SALATASI"
+  },
+  {
+    "date": "2019-02-13",
+    "meal": 0,
+    "soup": "YAYLA ÇORBA",
+    "mainCourse": "KIYMALI PATATES MUSAKKA",
+    "riceVarieties": "BULGUR PİLAVI",
+    "finalCourse": "MEYVE"
+  },
+  {
+    "date": "2019-02-14",
+    "meal": 0,
+    "soup": "DOMATES ÇORBA",
+    "mainCourse": "TERBİYELİ KÖFTE",
+    "riceVarieties": "SOSLU MAKARNA",
+    "finalCourse": "BROWNİ"
+  },
+  {
+    "date": "2019-02-15",
+    "meal": 0,
+    "soup": "MERCİMEK ÇORBA",
+    "mainCourse": "ETLİ NOHUT ",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "YOĞURT"
+  },
+  {
+    "date": "2019-02-18",
+    "meal": 0,
+    "soup": "TAVUK SUYU ÇORBA",
+    "mainCourse": "GEMİCİ USULU KURU FASÜLYE",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "TURŞU"
+  },
+  {
+    "date": "2019-02-19",
+    "meal": 0,
+    "soup": "MANTAR ÇORBA",
+    "mainCourse": "HASAN PAŞA KÖFTE",
+    "riceVarieties": "SOSLU MAKARNA",
+    "finalCourse": "CACIK"
+  },
+  {
+    "date": "2019-02-20",
+    "meal": 0,
+    "soup": "TEL ŞEHRİYE ÇORBA",
+    "mainCourse": "TAVUK FAJİTA",
+    "riceVarieties": "BULGUR PİLAVI",
+    "finalCourse": "AYVA KOMPOSTO"
+  },
+  {
+    "date": "2019-02-21",
+    "meal": 0,
+    "soup": "EZOGELİN ÇORBA",
+    "mainCourse": "SEBZE MUSAKKA",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "MEYVE"
+  },
+  {
+    "date": "2019-02-22",
+    "meal": 0,
+    "soup": "MERCİMEK ÇORBA",
+    "mainCourse": "FIRIN BALIK(USKUMRU)",
+    "riceVarieties": "ZEYTİNYAĞLI BARBUNYA",
+    "finalCourse": "TAHİN HELVASI"
+  },
+  {
+    "date": "2019-02-25",
+    "meal": 0,
+    "soup": "DOMATES ÇORBA",
+    "mainCourse": "TAVUK DÖNER",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "AYRAN"
+  },
+  {
+    "date": "2019-02-26",
+    "meal": 0,
+    "soup": "YAYLA ÇORBA",
+    "mainCourse": "ORMAN KEBABI",
+    "riceVarieties": "BULGUR PİLAVI",
+    "finalCourse": "MEYVE"
+  },
+  {
+    "date": "2019-02-27",
+    "meal": 0,
+    "soup": "MERCİMEK ÇORBA",
+    "mainCourse": "KADIN BUDU KÖFTE (PÜRELİ)",
+    "riceVarieties": "PEYNİRLİ MAKARNA",
+    "finalCourse": "BROWNİ"
+  },
+  {
+    "date": "2019-02-28",
+    "meal": 0,
+    "soup": "EZOGELİN ÇORBA",
+    "mainCourse": "KÖRİ SOSLU TAVUK ",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "BORANİ"
+  },
+  {
+    "date": "2019-02-01",
+    "meal": 1,
+    "soup": "YEMEK HİZMETİ YOKTUR",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-02-04",
+    "meal": 1,
+    "soup": "YEMEK HİZMETİ YOKTUR",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-02-05",
+    "meal": 1,
+    "soup": "YEMEK HİZMETİ YOKTUR",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-02-06",
+    "meal": 1,
+    "soup": "YEMEK HİZMETİ YOKTUR",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-02-07",
+    "meal": 1,
+    "soup": "YEMEK HİZMETİ YOKTUR",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-02-08",
+    "meal": 1,
+    "soup": "YEMEK HİZMETİ YOKTUR",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-02-11",
+    "meal": 1,
+    "soup": "TEL ŞEHRİYE ÇORBA",
+    "mainCourse": "ARNAVUT CİĞERİ",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "AYRAN"
+  },
+  {
+    "date": "2019-02-12",
+    "meal": 1,
+    "soup": "MERCİMEK ÇORBA",
+    "mainCourse": "TAVUK SOTE",
+    "riceVarieties": "BİBERLİ ERİŞTE ",
+    "finalCourse": "HAŞHAŞLI REVANİ"
+  },
+  {
+    "date": "2019-02-13",
+    "meal": 1,
+    "soup": "SEBZE ÇORBA",
+    "mainCourse": "ETLİ KURU FASÜLYE",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "TURŞU"
+  },
+  {
+    "date": "2019-02-14",
+    "meal": 1,
+    "soup": "YAYLA ÇORBA",
+    "mainCourse": "ETLİ TÜRLÜ",
+    "riceVarieties": "BULGUR PİLAVI",
+    "finalCourse": "BROWNİ"
+  },
+  {
+    "date": "2019-02-15",
+    "meal": 1,
+    "soup": "EZOGELİN ÇORBA",
+    "mainCourse": "ŞELALE KÖFTE",
+    "riceVarieties": "PEYNİRLİ MAKARNA",
+    "finalCourse": "AYVA KOMPOSTO"
+  },
+  {
+    "date": "2019-02-18",
+    "meal": 1,
+    "soup": "TAVUK SUYU ÇORBA",
+    "mainCourse": "MENGEN MUSAKKA",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "CACIK"
+  },
+  {
+    "date": "2019-02-19",
+    "meal": 1,
+    "soup": "TEL ŞEHRİYE ÇORBA",
+    "mainCourse": "BAHÇIVAN KEBABI",
+    "riceVarieties": "BULGUR PİLAVI",
+    "finalCourse": "İRMİK HELVASI"
+  },
+  {
+    "date": "2019-02-20",
+    "meal": 1,
+    "soup": "MANTAR ÇORBA",
+    "mainCourse": "KIYMALI BİBER DOLMA",
+    "riceVarieties": "SOSLU MAKARNA",
+    "finalCourse": "CACIK"
+  },
+  {
+    "date": "2019-02-21",
+    "meal": 1,
+    "soup": "SEBZE ÇORBA",
+    "mainCourse": "ETLİ NOHUT",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "YOĞURT"
+  },
+  {
+    "date": "2019-02-22",
+    "meal": 1,
+    "soup": "MERCİMEK ÇORBA",
+    "mainCourse": "PİLİÇ TOPKAPI",
+    "riceVarieties": "ZEYTİNYAĞLI BARBUNYA",
+    "finalCourse": "ÜZÜM HOŞAFI"
+  },
+  {
+    "date": "2019-02-25",
+    "meal": 1,
+    "soup": "MERCİMEK ÇORBA",
+    "mainCourse": "İZMİR KÖFTE",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "SALATA"
+  },
+  {
+    "date": "2019-02-26",
+    "meal": 1,
+    "soup": "TEL ŞEHRİYE ÇORBA",
+    "mainCourse": "KARNIYARIK",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "CACIK"
+  },
+  {
+    "date": "2019-02-27",
+    "meal": 1,
+    "soup": "EZOGELİN ÇORBA",
+    "mainCourse": "TAVUK SOTE",
+    "riceVarieties": "SOSLU MAKARNA",
+    "finalCourse": "BROWNİ"
+  },
+  {
+    "date": "2019-02-28",
+    "meal": 1,
+    "soup": "SARAY ÇORBA",
+    "mainCourse": "ETLİ KURU FASÜLYE",
+    "riceVarieties": "PİRİNÇ PİLAVI",
+    "finalCourse": "TURŞU"
+  }
+]
