@@ -313,5 +313,14 @@
 		"mainCourse": "TAS KEBABI",
 		"riceVarieties": "BULGUR PİLAVI",
 		"finalCourse": "ŞEKERPARE"
+	},
+	{
+		"id": 36,
+		"date": "2019-03-06",
+		"meal": 1,
+		"soup": "TOYGA ÇORBASI",
+		"mainCourse": "SEBZELİ MİSKET KÖFTE",
+		"riceVarieties": "PEYNİRLİ MAKARNA",
+		"finalCourse": "SALATA"
 	}
 ]
