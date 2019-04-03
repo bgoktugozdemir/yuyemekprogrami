@@ -1,0 +1,29 @@
+[{
+	"date": "2019-04-04",
+	"meal": 0,
+	"soup": "TEL ŞEHRİYE ÇORBA",
+	"mainCourse": "BAHÇEVAN KEBABI",
+	"riceVarieties": "PEYNİRLİ BÖREK",
+	"finalCourse": "KOMPOSTO"
+},{
+	"date": "2019-04-05",
+	"meal": 0,
+	"soup": "SEBZE ÇORBA",
+	"mainCourse": "TAVUKLU KAĞIT KEBABI",
+	"riceVarieties": "PİRİNÇ PİLAVI",
+	"finalCourse": "CACIK"
+}, {
+	"date": "2019-04-04",
+	"meal": 1,
+	"soup": "TEL ŞEHRİYE ÇORBA",
+	"mainCourse": "KIYMALI BİBER DOLMA",
+	"riceVarieties": "PEYNİRLİ BÖREK",
+	"finalCourse": "KOMPOSTO"
+}, {
+	"date": "2019-04-05",
+	"meal": 1,
+	"soup": "MERCİMEK ÇORBA",
+	"mainCourse": "ETLİ NOHUT",
+	"riceVarieties": "MEYHANE PİLAVI",
+	"finalCourse": "CACIK"
+}]
