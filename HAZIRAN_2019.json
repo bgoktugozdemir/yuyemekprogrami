@@ -120,7 +120,119 @@
     "finalCourse": "CACIK"
   },
   {
-    "date": "2019-06-29",
+    "date": "2019-06-10",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-11",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-12",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-13",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-14",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-17",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-18",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-19",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-20",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-21",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-24",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-25",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-26",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-27",
+    "meal": 1,
+    "soup": "",
+    "mainCourse": "",
+    "riceVarieties": "",
+    "finalCourse": ""
+  },
+  {
+    "date": "2019-06-28",
     "meal": 1,
     "soup": "",
     "mainCourse": "",
