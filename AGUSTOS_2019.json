@@ -56,30 +56,6 @@ riceVarieties: "YOĞURTLU KARIŞIK KIZARTMA",
 finalCourse: "HOŞAF"
 },
 {
-date: "2019-08-12",
-meal: 0,
-soup: "",
-mainCourse: "RESMİ TATİL",
-riceVarieties: "",
-finalCourse: ""
-},
-{
-date: "2019-08-13",
-meal: 0,
-soup: "",
-mainCourse: "RESMİ TATİL",
-riceVarieties: "",
-finalCourse: ""
-},
-{
-date: "2019-08-14",
-meal: 0,
-soup: "",
-mainCourse: "RESMİ TATİL",
-riceVarieties: "",
-finalCourse: ""
-},
-{
 date: "2019-08-15",
 meal: 0,
 soup: "EZOGELİN ÇORBA",
