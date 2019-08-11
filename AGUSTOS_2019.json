@@ -112,6 +112,54 @@ riceVarieties: "",
 finalCourse: ""
 },
 {
+date: "2019-08-12",
+meal: 0,
+soup: "",
+mainCourse: "",
+riceVarieties: "",
+finalCourse: ""
+},
+{
+date: "2019-08-12",
+meal: 1,
+soup: "",
+mainCourse: "",
+riceVarieties: "",
+finalCourse: ""
+},
+{
+date: "2019-08-13",
+meal: 0,
+soup: "",
+mainCourse: "",
+riceVarieties: "",
+finalCourse: ""
+},
+{
+date: "2019-08-13",
+meal: 1,
+soup: "",
+mainCourse: "",
+riceVarieties: "",
+finalCourse: ""
+},
+{
+date: "2019-08-14",
+meal: 0,
+soup: "",
+mainCourse: "",
+riceVarieties: "",
+finalCourse: ""
+},
+{
+date: "2019-08-14",
+meal: 1,
+soup: "",
+mainCourse: "",
+riceVarieties: "",
+finalCourse: ""
+},
+{
 date: "2019-08-15",
 meal: 0,
 soup: "EZOGELİN ÇORBA",
