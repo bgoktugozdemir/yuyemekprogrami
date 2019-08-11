@@ -1,0 +1,170 @@
+[
+{
+date: "2019-08-01",
+meal: 0,
+soup: "EZOGELİN ÇORBA",
+mainCourse: "ETLİ TÜRLÜ",
+riceVarieties: "PEYNİRLİ MAKARNA",
+finalCourse: "ŞEKERPARE"
+},
+{
+date: "2019-08-02",
+meal: 0,
+soup: "SEBZE ÇORBA",
+mainCourse: "ETLİ KURU FASÜLYE",
+riceVarieties: "PİRİNÇ PİLAVI",
+finalCourse: "YOĞURT"
+},
+{
+date: "2019-08-05",
+meal: 0,
+soup: "TEL ŞEHRİYE ÇORBA",
+mainCourse: "ÇITIR PANE",
+riceVarieties: "PİRİNÇ PİLAVI",
+finalCourse: "AYRAN"
+},
+{
+date: "2019-08-06",
+meal: 0,
+soup: "MERCİMEK ÇORBA",
+mainCourse: "TAS KEBABI",
+riceVarieties: "BULGUR PİLAVI",
+finalCourse: "KAVUN"
+},
+{
+date: "2019-08-07",
+meal: 0,
+soup: "SEBZE ÇORBA",
+mainCourse: "KADIN BUDU KÖFTE",
+riceVarieties: "SOSLU MAKARNA",
+finalCourse: "KOMPOSTO"
+},
+{
+date: "2019-08-08",
+meal: 0,
+soup: "EZOGELİN ÇORBA",
+mainCourse: "KARNIYARIK",
+riceVarieties: "PİRİNÇ PİLAVI",
+finalCourse: "CACIK"
+},
+{
+date: "2019-08-09",
+meal: 0,
+soup: "DOMATES ÇORBA",
+mainCourse: "PİLİÇ TOPKAPI",
+riceVarieties: "YOĞURTLU KARIŞIK KIZARTMA",
+finalCourse: "HOŞAF"
+},
+{
+date: "2019-08-12",
+meal: 0,
+soup: "",
+mainCourse: "RESMİ TATİL",
+riceVarieties: "",
+finalCourse: ""
+},
+{
+date: "2019-08-13",
+meal: 0,
+soup: "",
+mainCourse: "RESMİ TATİL",
+riceVarieties: "",
+finalCourse: ""
+},
+{
+date: "2019-08-14",
+meal: 0,
+soup: "",
+mainCourse: "RESMİ TATİL",
+riceVarieties: "",
+finalCourse: ""
+},
+{
+date: "2019-08-15",
+meal: 0,
+soup: "EZOGELİN ÇORBA",
+mainCourse: "ETLİ KURU FASÜLYE",
+riceVarieties: "PİRİNÇ PİLAVI",
+finalCourse: "YOĞURT"
+},
+{
+date: "2019-08-16",
+meal: 0,
+soup: "DOMATES ÇORBA",
+mainCourse: "KI. BİBER DOLMA (YOĞURTLU)",
+riceVarieties: "DOM, BİBER ERİŞTE",
+finalCourse: "KARPUZ"
+},
+{
+date: "2019-08-19",
+meal: 0,
+soup: "TEL ŞEHRİYE ÇORBA",
+mainCourse: "ETLİ NOHUT",
+riceVarieties: "PİRİNÇ PİLAVI",
+finalCourse: "TURŞU"
+},
+{
+date: "2019-08-20",
+meal: 0,
+soup: "YAYLA ÇORBA",
+mainCourse: "PÜRELİ ROSTO KÖFTE",
+riceVarieties: "PEYNİRLİ MAKARNA",
+finalCourse: "SALATA"
+},
+{
+date: "2019-08-21",
+meal: 0,
+soup: "MERCİMEK ÇORBA",
+mainCourse: "PİLİÇ ŞİŞ",
+riceVarieties: "MEYHANE PİLAVI",
+finalCourse: "AYRAN"
+},
+{
+date: "2019-08-22",
+meal: 0,
+soup: "DOMATES ÇORBA",
+mainCourse: "ETLİ BEZELYE",
+riceVarieties: "PİRİNÇ PİLAVI",
+finalCourse: "KAZANDİBİ"
+},
+{
+date: "2019-08-23",
+meal: 0,
+soup: "SEBZE ÇORBA",
+mainCourse: "KIYMALI PATATES MUSAKKA",
+riceVarieties: "DOM, BİBER ERİŞTE",
+finalCourse: "CACIK"
+},
+{
+date: "2019-08-26",
+meal: 0,
+soup: "DOMATES ÇORBA",
+mainCourse: "TAVUK DÖNER",
+riceVarieties: "GÖKKUŞAĞI PİLAVI",
+finalCourse: "CACIK"
+},
+{
+date: "2019-08-27",
+meal: 0,
+soup: "SEBZE ÇORBA",
+mainCourse: "İZMİR KÖFTE",
+riceVarieties: "FESLEĞEN SOSLU MAKARNA",
+finalCourse: "SALATA"
+},
+{
+date: "2019-08-29",
+meal: 0,
+soup: "YAYLA ÇORBA",
+mainCourse: "TAVUK SOTE",
+riceVarieties: "PİRİNÇ PİLAVI",
+finalCourse: "KARPUZ"
+},
+{
+date: "2019-08-30",
+meal: 0,
+soup: "EZOGELİN ÇORBA",
+mainCourse: "SANDAL SEFASI",
+riceVarieties: "BULGUR PİLAVI",
+finalCourse: "CACIK"
+}
+]
