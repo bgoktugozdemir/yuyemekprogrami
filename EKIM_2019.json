@@ -19,10 +19,10 @@
 "finalCourse": ""
 },
 {
-"date": "2019-09-04",
+"date": "2019-10-04",
 "meal": 0,
-"soup": "EZOGELİN ÇORBA",
-"mainCourse": "TAS KEBABI",
+"soup": "PRENSES ÇORBA",
+"mainCourse": "SEBZE MUSAKKA",
 "riceVarieties": "BULGUR PİLAVI",
 "finalCourse": "CACIK",
 "calorieSoup": 203,
@@ -30,12 +30,16 @@
 "calorieRice": 236,
 "calorieFinal": 100
 },{
-"date": "2019-09-04",
+"date": "2019-10-04",
 "meal": 1,
-"soup": "",
-"mainCourse": "",
-"riceVarieties": "",
-"finalCourse": ""
+"soup": "EZOGELİN ÇORBA",
+"mainCourse": "PİLİÇ TOPKAPI",
+"riceVarieties": "SOSLU MAKARNA",
+"finalCourse": "ŞEKERPARE",
+"calorieSoup": 203,
+"calorieMain": 385,
+"calorieRice": 378,
+"calorieFinal": 318
 },
 {
 "date": "2019-09-05",
