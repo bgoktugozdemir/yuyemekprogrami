@@ -6,10 +6,10 @@
 "mainCourse": "FIRIN TAVUK",
 "riceVarieties": "PEYNİRLİ MAKARNA",
 "finalCourse": "SALATA",
-"calorieSoup": "134",
-"calorieMain": "285",
-"calorieRice": "308",
-"calorieFinal": "123"
+"calorieSoup": 134,
+"calorieMain": 285,
+"calorieRice": 308,
+"calorieFinal": 123
 },{
 "date": "2019-09-03",
 "meal": 1,
@@ -25,10 +25,10 @@
 "mainCourse": "TAS KEBABI",
 "riceVarieties": "BULGUR PİLAVI",
 "finalCourse": "CACIK",
-"calorieSoup": "203",
-"calorieMain": "347",
-"calorieRice": "236",
-"calorieFinal": "100"
+"calorieSoup": 203,
+"calorieMain": 347,
+"calorieRice": 236,
+"calorieFinal": 100
 },{
 "date": "2019-09-04",
 "meal": 1,
@@ -44,10 +44,10 @@
 "mainCourse": "SEBZELİ KÖFTE",
 "riceVarieties": "PİRİNÇ PİLAVI",
 "finalCourse": "MEYVE",
-"calorieSoup": "168",
-"calorieMain": "348",
-"calorieRice": "336",
-"calorieFinal": "65"
+"calorieSoup": 168,
+"calorieMain": 348,
+"calorieRice": 336,
+"calorieFinal": 65
 },{
 "date": "2019-09-05",
 "meal": 1,
@@ -63,10 +63,10 @@
 "mainCourse": "ETLİ NOHUT",
 "riceVarieties": "PİRİNÇ PİLAVI",
 "finalCourse": "YOĞURT",
-"calorieSoup": "183",
-"calorieMain": "298",
-"calorieRice": "336",
-"calorieFinal": "130"
+"calorieSoup": 183,
+"calorieMain": 298,
+"calorieRice": 336,
+"calorieFinal": 130
 },{
 "date": "2019-09-06",
 "meal": 1,
@@ -82,10 +82,10 @@
 "mainCourse": "TAVUK DÖNER",
 "riceVarieties": "PİRİNÇ PİLAVI",
 "finalCourse": "AYRAN",
-"calorieSoup": "203",
-"calorieMain": "390",
-"calorieRice": "336",
-"calorieFinal": "85"
+"calorieSoup": 203,
+"calorieMain": 390,
+"calorieRice": 336,
+"calorieFinal": 85
 },{
 "date": "2019-09-09",
 "meal": 1,
@@ -101,10 +101,10 @@
 "mainCourse": "İZMİR KÖFTE",
 "riceVarieties": "SOSLU MAKARNA",
 "finalCourse": "SALATA",
-"calorieSoup": "168",
-"calorieMain": "360",
-"calorieRice": "378",
-"calorieFinal": "123"
+"calorieSoup": 168,
+"calorieMain": 360,
+"calorieRice": 378,
+"calorieFinal": 123
 },{
 "date": "2019-09-10",
 "meal": 1,
@@ -120,10 +120,10 @@
 "mainCourse": "PİLİÇ TOPKAPI",
 "riceVarieties": "YOĞURTLU KARIŞIK KIZARTMA",
 "finalCourse": "AYRAN",
-"calorieSoup": "168",
-"calorieMain": "385",
-"calorieRice": "418",
-"calorieFinal": "85"
+"calorieSoup": 168,
+"calorieMain": 385,
+"calorieRice": 418,
+"calorieFinal": 85
 },{
 "date": "2019-09-11",
 "meal": 1,
@@ -139,10 +139,10 @@
 "mainCourse": "ETLİ BEZELYE",
 "riceVarieties": "PİRİNÇ PİLAVI",
 "finalCourse": "MEYVE",
-"calorieSoup": "183",
-"calorieMain": "272",
-"calorieRice": "336",
-"calorieFinal": "65"
+"calorieSoup": 183,
+"calorieMain": 272,
+"calorieRice": 336,
+"calorieFinal": 65
 },{
 "date": "2019-09-12",
 "meal": 1,
@@ -158,10 +158,10 @@
 "mainCourse": "MANTI",
 "riceVarieties": "SOSLU KARIŞIK KIZARTMA",
 "finalCourse": "YOĞURT",
-"calorieSoup": "148",
-"calorieMain": "365",
-"calorieRice": "390",
-"calorieFinal": "130"
+"calorieSoup": 148,
+"calorieMain": 365,
+"calorieRice": 390,
+"calorieFinal": 130
 },{
 "date": "2019-09-13",
 "meal": 1,
@@ -177,10 +177,10 @@
 "mainCourse": "GEMİCİ KURU FASÜLYE",
 "riceVarieties": "PİRİNÇ PİLAVI",
 "finalCourse": "YOĞURT",
-"calorieSoup": "185",
-"calorieMain": "290",
-"calorieRice": "336",
-"calorieFinal": "130"
+"calorieSoup": 185,
+"calorieMain": 290,
+"calorieRice": 336,
+"calorieFinal": 130
 },{
 "date": "2019-09-16",
 "meal": 1,
@@ -196,10 +196,10 @@
 "mainCourse": "PÜRELİ ROSTO KÖFTE",
 "riceVarieties": "FESLEĞEN SOSLU MAKARNA",
 "finalCourse": "SALATA",
-"calorieSoup": "183",
-"calorieMain": "302",
-"calorieRice": "378",
-"calorieFinal": "123"
+"calorieSoup": 183,
+"calorieMain": 302,
+"calorieRice": 378,
+"calorieFinal": 123
 },{
 "date": "2019-09-17",
 "meal": 1,
@@ -215,10 +215,10 @@
 "mainCourse": "TAVUK SOTE",
 "riceVarieties": "PATLICANLI BULGUR PİLAVI",
 "finalCourse": "SÜTLAÇ",
-"calorieSoup": "134",
-"calorieMain": "330",
-"calorieRice": "236",
-"calorieFinal": "318"
+"calorieSoup": 134,
+"calorieMain": 330,
+"calorieRice": 236,
+"calorieFinal": 318
 },{
 "date": "2019-09-18",
 "meal": 1,
@@ -234,10 +234,10 @@
 "mainCourse": "BİBER DOLMA (YOĞ)",
 "riceVarieties": "PEYNİRLİ BÖREK",
 "finalCourse": "KOMPOSTO",
-"calorieSoup": "203",
-"calorieMain": "330",
-"calorieRice": "420",
-"calorieFinal": "225"
+"calorieSoup": 203,
+"calorieMain": 330,
+"calorieRice": 420,
+"calorieFinal": 225
 },{
 "date": "2019-09-19",
 "meal": 1,
@@ -253,10 +253,10 @@
 "mainCourse": "ETLİ NOHUT",
 "riceVarieties": "PİRİNÇ PİLAVI",
 "finalCourse": "YOĞURT",
-"calorieSoup": "134",
-"calorieMain": "298",
-"calorieRice": "336",
-"calorieFinal": "130"
+"calorieSoup": 134,
+"calorieMain": 298,
+"calorieRice": 336,
+"calorieFinal": 130
 },{
 "date": "2019-09-20",
 "meal": 1,
@@ -272,10 +272,10 @@
 "mainCourse": "ÇITIR PANE",
 "riceVarieties": "PİRİNÇ PİLAVI",
 "finalCourse": "AYRAN",
-"calorieSoup": "168",
-"calorieMain": "350",
-"calorieRice": "336",
-"calorieFinal": "85"
+"calorieSoup": 168,
+"calorieMain": 350,
+"calorieRice": 336,
+"calorieFinal": 85
 },{
 "date": "2019-09-23",
 "meal": 1,
@@ -291,10 +291,10 @@
 "mainCourse": "İZMİR KÖFTE",
 "riceVarieties": "PEYNİRLİ MAKARNA",
 "finalCourse": "SALATA",
-"calorieSoup": "183",
-"calorieMain": "360",
-"calorieRice": "308",
-"calorieFinal": "123"
+"calorieSoup": 183,
+"calorieMain": 360,
+"calorieRice": 308,
+"calorieFinal": 123
 },{
 "date": "2019-09-24",
 "meal": 1,
@@ -310,10 +310,10 @@
 "mainCourse": "KARIŞIK SEBZE MUSAKKA",
 "riceVarieties": "BULGUR PİLAVI",
 "finalCourse": "CACIK",
-"calorieSoup": "134",
-"calorieMain": "365",
-"calorieRice": "236",
-"calorieFinal": "100"
+"calorieSoup": 134,
+"calorieMain": 365,
+"calorieRice": 236,
+"calorieFinal": 100
 },{
 "date": "2019-09-25",
 "meal": 1,
@@ -329,10 +329,10 @@
 "mainCourse": "TAVUK SOTE",
 "riceVarieties": "PİRİNÇ PİLAVI",
 "finalCourse": "MEYVE",
-"calorieSoup": "148",
-"calorieMain": "330",
-"calorieRice": "336",
-"calorieFinal": "65"
+"calorieSoup": 148,
+"calorieMain": 330,
+"calorieRice": 336,
+"calorieFinal": 65
 },{
 "date": "2019-09-26",
 "meal": 1,
@@ -348,10 +348,10 @@
 "mainCourse": "KAĞIT KEBABI",
 "riceVarieties": "BULGUR PİLAVI",
 "finalCourse": "KAYISI KOMPOSTO",
-"calorieSoup": "203",
-"calorieMain": "335",
-"calorieRice": "236",
-"calorieFinal": "225"
+"calorieSoup": 203,
+"calorieMain": 335,
+"calorieRice": 236,
+"calorieFinal": 225
 },{
 "date": "2019-09-27",
 "meal": 1,
@@ -367,10 +367,10 @@
 "mainCourse": "ETLİ KURU FASÜLYE",
 "riceVarieties": "PİRİNÇ PİLAVI",
 "finalCourse": "YOĞURT",
-"calorieSoup": "183",
-"calorieMain": "360",
-"calorieRice": "336",
-"calorieFinal": "130"
+"calorieSoup": 183,
+"calorieMain": 360,
+"calorieRice": 336,
+"calorieFinal": 130
 },{
 "date": "2019-09-30",
 "meal": 1,
