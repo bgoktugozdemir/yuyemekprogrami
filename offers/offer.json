@@ -1,4 +1,9 @@
 {
   "status": true,
-  "offerBanners": ["yugenctema.gif","yusiber.gif","lokmamax.gif"]
+  "offerBanners": [
+    "lokmamax.gif",
+    "yugenctema.gif",
+    "yusiber.gif",
+    "yuemk.gif"
+  ]
 }
