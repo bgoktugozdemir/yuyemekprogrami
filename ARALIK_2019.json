@@ -99,11 +99,11 @@
         "date": "2019-12-12",
         "meal": 0,
         "soup": "YAYLA ÇORBA ",
-        "mainCourse": "ETLİ TÜRLÜ (KIŞ) ",
+        "mainCourse": "ETSİZ TÜRLÜ (KIŞ) ",
         "riceVarieties": "ERİŞTE (DOMATESLİ BİBERLİ) ",
         "finalCourse": "SAKIZLI MUHALLEBİ ",
         "calorieSoup": 134,
-        "calorieMain": 325,
+        "calorieMain": 300,
         "calorieRice": 312,
         "calorieFinal": 315
     },
