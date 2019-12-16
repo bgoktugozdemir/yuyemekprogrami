@@ -123,11 +123,11 @@
 "date": "2019-12-16",
 "meal": 0,
 "soup": "EZOGELİN ÇORBA ",
-"mainCourse": "KURU FASULYE (ETLİ) ",
+"mainCourse": "ETLİ NOHUT",
 "riceVarieties": "PİRİNÇ PİLAVI ",
 "finalCourse": "PEMBE SULTAN SALATASI ",
 "calorieSoup": 203,
-"calorieMain": 360,
+"calorieMain": 298,
 "calorieRice": 336,
 "calorieFinal": 262
 },
@@ -386,14 +386,14 @@
 {
 "date": "2019-12-16",
 "meal": 1,
-"soup": "DOMATES ÇORBA ",
-"mainCourse": "KARNABAHAR GRATEN ",
-"riceVarieties": "ERİŞTE (DOMATESLİ BİBERLİ) ",
-"finalCourse": "HOŞAF (ÜZÜM) ",
+"soup": "DOMATES ÇORBA",
+"mainCourse": "PATLICAN MUSAKKA",
+"riceVarieties": "PİRİNÇ PİLAVI",
+"finalCourse": "CACIK",
 "calorieSoup": 175,
-"calorieMain": 285,
-"calorieRice": 312,
-"calorieFinal": 225
+"calorieMain": 365,
+"calorieRice": 336,
+"calorieFinal": 100
 },
 {
 "date": "2019-12-17",
