@@ -1,0 +1,322 @@
+[
+    {
+        "date": "2020-02-03",
+        "meal": 0,
+        "soup": "MERCİMEK ÇORBA (183",
+        "mainCourse": "ETLİ NOHUT (298",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "YOĞURT (130"
+    },
+    {
+        "date": "2020-02-04",
+        "meal": 0,
+        "soup": "YAYLA ÇORBA (134",
+        "mainCourse": "FIRIN TAVUK (PATATES KIZARTMA) (285",
+        "riceVarieties": "MAKARNA (SOSLU) (378",
+        "finalCourse": "SALATA (123"
+    },
+    {
+        "date": "2020-02-05",
+        "meal": 0,
+        "soup": "EZOGELİN ÇORBA (203",
+        "mainCourse": "ORMAN KEBABI (347",
+        "riceVarieties": "DOMATESLİ BİBERLİ BULGUR PİLAVI (236",
+        "finalCourse": "SÜTLAÇ (318"
+    },
+    {
+        "date": "2020-02-06",
+        "meal": 0,
+        "soup": "TEL ŞEHRİYE ÇORBA (148",
+        "mainCourse": "KAĞIT KEBABI (TAVUK) (335",
+        "riceVarieties": "ARPA ŞEHRİYE PİLAVI (340",
+        "finalCourse": "CACIK (100"
+    },
+    {
+        "date": "2020-02-07",
+        "meal": 0,
+        "soup": "PRENSES ÇORBA (140",
+        "mainCourse": "KIYMALI ISPANAK(YOĞURTLU) (262",
+        "riceVarieties": "DOMATESLİ BİBERLİ BULGUR PİLAVI (236",
+        "finalCourse": "MEYVE (65"
+    },
+    {
+        "date": "2020-02-10",
+        "meal": 0,
+        "soup": "EZOGELİN ÇORBA (203",
+        "mainCourse": "TAVUK FAJİTA (260",
+        "riceVarieties": "NOHUTLU PİLAV (336",
+        "finalCourse": "AYRAN (85"
+    },
+    {
+        "date": "2020-02-11",
+        "meal": 0,
+        "soup": "TEL ŞEHRİYE ÇORBA (148",
+        "mainCourse": "TAS KEBABI (347",
+        "riceVarieties": "DOMATESLİ BİBERLİ BULGUR PİLAVI (236",
+        "finalCourse": "SALATA (123"
+    },
+    {
+        "date": "2020-02-12",
+        "meal": 0,
+        "soup": "PRENSES ÇORBA (140",
+        "mainCourse": "KURU FASULYE (GEMİCİ) (290",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "PEMBE SULTAN SALATASI (262"
+    },
+    {
+        "date": "2020-02-13",
+        "meal": 0,
+        "soup": "EZOGELİN ÇORBA (203",
+        "mainCourse": "KADIN BUDU KÖFTE (350",
+        "riceVarieties": "MAKARNA (SOSLU) (378",
+        "finalCourse": "HOŞAF (ÜZÜM) (225"
+    },
+    {
+        "date": "2020-02-14",
+        "meal": 0,
+        "soup": "YOĞURT ÇORBA (NANELİ) (134",
+        "mainCourse": "ETLİ TÜRLÜ (KIŞ) (325",
+        "riceVarieties": "NOHUTLU PİLAV (336",
+        "finalCourse": "BROWNİ (402"
+    },
+    {
+        "date": "2020-02-17",
+        "meal": 0,
+        "soup": "SEBZE ÇORBA (168",
+        "mainCourse": "KURU FASULYE (ETLİ) (360",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "YOĞURT (130"
+    },
+    {
+        "date": "2020-02-18",
+        "meal": 0,
+        "soup": "EZOGELİN ÇORBA (203",
+        "mainCourse": "SEBZELİ KÖFTE (348",
+        "riceVarieties": "DOMATESLİ BİBERLİ BULGUR PİLAVI (236",
+        "finalCourse": "MEYVE (65"
+    },
+    {
+        "date": "2020-02-19",
+        "meal": 0,
+        "soup": "TEL ŞEHRİYE ÇORBA (148",
+        "mainCourse": "FIRIN BAGET (PATATES KIZARTMA) (385",
+        "riceVarieties": "PİRİNÇ PİLAVI (SAFRANLI) (336",
+        "finalCourse": "SALATA (123"
+    },
+    {
+        "date": "2020-02-20",
+        "meal": 0,
+        "soup": "KREMALI TAVUK ÇORBA (140",
+        "mainCourse": "KIYMALI PATATES MUSAKKA (302",
+        "riceVarieties": "ERİŞTE (DOMATESLİ BİBERLİ) (312",
+        "finalCourse": "CACIK (100"
+    },
+    {
+        "date": "2020-02-21",
+        "meal": 0,
+        "soup": "MERCİMEK ÇORBA (183",
+        "mainCourse": "FIRIN BALIK (330",
+        "riceVarieties": "Z.Y BARBUNYA (391",
+        "finalCourse": "İRMİK HELVASI (402"
+    },
+    {
+        "date": "2020-02-24",
+        "meal": 0,
+        "soup": "EZOGELİN ÇORBA (203",
+        "mainCourse": "TAVUK DÖNER (390",
+        "riceVarieties": "GÖKKUŞAĞI PİLAVI (336",
+        "finalCourse": "AYRAN (85"
+    },
+    {
+        "date": "2020-02-25",
+        "meal": 0,
+        "soup": "MAHLUTA ÇORBA (180",
+        "mainCourse": "PATLICAN KEBABI (330",
+        "riceVarieties": "NOHUTLU PİLAV (336",
+        "finalCourse": "CACIK (100"
+    },
+    {
+        "date": "2020-02-26",
+        "meal": 0,
+        "soup": "PRENSES ÇORBA (140",
+        "mainCourse": "KARNABAHAR GRATEN (285",
+        "riceVarieties": "MAKARNA (SOSLU) (378",
+        "finalCourse": "HOŞAF (KAYISI) (225"
+    },
+    {
+        "date": "2020-02-27",
+        "meal": 0,
+        "soup": "YAYLA ÇORBA (134",
+        "mainCourse": "İZMİR KÖFTE (360",
+        "riceVarieties": "DOMATESLİ BİBERLİ BULGUR PİLAVI (236",
+        "finalCourse": "MEYVE (65"
+    },
+    {
+        "date": "2020-02-28",
+        "meal": 0,
+        "soup": "TEL ŞEHRİYE ÇORBA (148",
+        "mainCourse": "ARNAVUT CİĞERİ (335",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "AYRAN (85"
+    },
+    {
+        "date": "2020-02-03",
+        "meal": 1,
+        "soup": "EZOGELİN ÇORBA (203",
+        "mainCourse": "TAVUK FAJİTA (260",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "AYRAN (85"
+    },
+    {
+        "date": "2020-02-04",
+        "meal": 1,
+        "soup": "PRENSES ÇORBA (140",
+        "mainCourse": "TAS KEBABI (347",
+        "riceVarieties": "BULGUR PİLAVI (236",
+        "finalCourse": "MEVSİM SALATA (123"
+    },
+    {
+        "date": "2020-02-05",
+        "meal": 1,
+        "soup": "TEL ŞEHRİYE ÇORBA (148",
+        "mainCourse": "KURU FASULYE (GEMİCİ) (290",
+        "riceVarieties": "NOHUTLU PİLAV (336",
+        "finalCourse": "YOĞURT (130"
+    },
+    {
+        "date": "2020-02-06",
+        "meal": 1,
+        "soup": "MAHLUTA ÇORBA (180",
+        "mainCourse": "ETLİ TÜRLÜ (KIŞ) (325",
+        "riceVarieties": "FIRIN MAKARNA (382",
+        "finalCourse": "HOŞAF (KAYISI) (225"
+    },
+    {
+        "date": "2020-02-07",
+        "meal": 1,
+        "soup": "DOMATES ÇORBA (175",
+        "mainCourse": "FIRIN BALIK (330",
+        "riceVarieties": "Z.Y BARBUNYA (391",
+        "finalCourse": "TAHİN HELVASI (470"
+    },
+    {
+        "date": "2020-02-10",
+        "meal": 1,
+        "soup": "MERCİMEK ÇORBA (183",
+        "mainCourse": "ETLİ NOHUT (298",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "YOĞURT (130"
+    },
+    {
+        "date": "2020-02-11",
+        "meal": 1,
+        "soup": "TUTMAÇ ÇORBA (280",
+        "mainCourse": "MİTİDE KÖFTE (302",
+        "riceVarieties": "MAKARNA (SOSLU) (378",
+        "finalCourse": "CACIK (100"
+    },
+    {
+        "date": "2020-02-12",
+        "meal": 1,
+        "soup": "DOMATES ÇORBA (SÜTLÜ) (175",
+        "mainCourse": "ORMAN KEBABI (347",
+        "riceVarieties": "DOMATESLİ BİBERLİ BULGUR PİLAVI (236",
+        "finalCourse": "MEYVE (65"
+    },
+    {
+        "date": "2020-02-13",
+        "meal": 1,
+        "soup": "YAYLA ÇORBA (134",
+        "mainCourse": "FIRIN TAVUK (PATATES KIZARTMA) (285",
+        "riceVarieties": "DOMATESLİ BİBERLİ BULGUR PİLAVI (236",
+        "finalCourse": "MEVSİM SALATA (123"
+    },
+    {
+        "date": "2020-02-14",
+        "meal": 1,
+        "soup": "TEL ŞEHRİYE ÇORBA (148",
+        "mainCourse": "EKŞİLİ KÖFTE (348",
+        "riceVarieties": "ARPA ŞEHRİYE PİLAVI (340",
+        "finalCourse": "BROWNİ (402"
+    },
+    {
+        "date": "2020-02-17",
+        "meal": 1,
+        "soup": "EZOGELİN ÇORBA (203",
+        "mainCourse": "TAVUK FAJİTA (260",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "AYRAN (85"
+    },
+    {
+        "date": "2020-02-18",
+        "meal": 1,
+        "soup": "MERCİMEK ÇORBA (183",
+        "mainCourse": "PATLICAN MUSAKKA (365",
+        "riceVarieties": "KUŞ ÜZÜMLÜ PİLAV (336",
+        "finalCourse": "CACIK (100"
+    },
+    {
+        "date": "2020-02-19",
+        "meal": 1,
+        "soup": "TAVUK SUYU ÇORBA (140",
+        "mainCourse": "ETLİ NOHUT (298",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "PEMBE SULTAN SALATASI (262"
+    },
+    {
+        "date": "2020-02-20",
+        "meal": 1,
+        "soup": "EZOGELİN ÇORBA (203",
+        "mainCourse": "ORMAN KEBABI (347",
+        "riceVarieties": "DOMATESLİ BİBERLİ BULGUR PİLAVI (236",
+        "finalCourse": "MEYVE (65"
+    },
+    {
+        "date": "2020-02-21",
+        "meal": 1,
+        "soup": "TUTMAÇ ÇORBA (280",
+        "mainCourse": "PİLİÇ TOPKAPI (385",
+        "riceVarieties": "Z.Y BARBUNYA (391",
+        "finalCourse": "CACIK (100"
+    },
+    {
+        "date": "2020-02-24",
+        "meal": 1,
+        "soup": "PRENSES ÇORBA (140",
+        "mainCourse": "KURU FASULYE (ETLİ) (360",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "YOĞURT (130"
+    },
+    {
+        "date": "2020-02-25",
+        "meal": 1,
+        "soup": "TEL ŞEHRİYE ÇORBA (148",
+        "mainCourse": "SEBZELİ KÖFTE (348",
+        "riceVarieties": "MAKARNA (PEYNİRLİ) (308",
+        "finalCourse": "İRMİK HELVASI (402"
+    },
+    {
+        "date": "2020-02-26",
+        "meal": 1,
+        "soup": "MERCİMEK ÇORBA (183",
+        "mainCourse": "ANKARA TAVA (330",
+        "riceVarieties": "KARIŞIK KIZARTMA (SOSLU) (390",
+        "finalCourse": "CACIK (100"
+    },
+    {
+        "date": "2020-02-27",
+        "meal": 1,
+        "soup": "DÜĞÜN ÇORBA (185",
+        "mainCourse": "KIYMALI PATATES MUSAKKA (302",
+        "riceVarieties": "PİRİNÇ PİLAVI (336",
+        "finalCourse": "MEVSİM SALATA (123"
+    },
+    {
+        "date": "2020-02-28",
+        "meal": 1,
+        "soup": "EZOGELİN ÇORBA (203",
+        "mainCourse": "TAVUK SOTE (330",
+        "riceVarieties": "DOMATESLİ BİBERLİ BULGUR PİLAVI (236",
+        "finalCourse": "MEYVE (65"
+    }
+]
