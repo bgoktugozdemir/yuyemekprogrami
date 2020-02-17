@@ -9,7 +9,11 @@
         "calorieSoup": 183,
         "calorieMain": 298,
         "calorieRice": 336,
-        "calorieFinal": 130
+        "calorieFinal": 130,
+        "ingredientsSoup": "Mercimek, k.soğan Un, Yağ, Limon, Tuz",
+        "ingredientsMain": "Nohut, Dana Eti, salça, k.soğan, tuz, yağ",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-04",
@@ -21,7 +25,11 @@
         "calorieSoup": 134,
         "calorieMain": 285,
         "calorieRice": 378,
-        "calorieFinal": 123
+        "calorieFinal": 123,
+        "ingredientsSoup": "Yoğurt, pirinç, yumurta, un, yağ, nane, tuz",
+        "ingredientsMain": "Tavuk but, salça, tuz.yağ, kekik, patates, karabiber",
+        "ingredientsRice": "Makarna, salça, tuz, yağ",
+        "ingredientsFinal": "Marul, havuç, z.y, tuz, limon"
     },
     {
         "date": "2020-02-05",
@@ -33,7 +41,11 @@
         "calorieSoup": 203,
         "calorieMain": 262,
         "calorieRice": 236,
-        "calorieFinal": 130
+        "calorieFinal": 130,
+        "ingredientsSoup": "Pirinç, mercimek, un, yağ, tuz, limon, karabiber, salça, nane",
+        "ingredientsMain": "Dana eti, ıspanak, k.soğan, yağ, salça, tuz, yoğurt",
+        "ingredientsRice": "Bulgur, salça, k.soğan, domates, yağ, tuz, biber, karabiber, nane",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-06",
@@ -45,7 +57,11 @@
         "calorieSoup": 148,
         "calorieMain": 335,
         "calorieRice": 340,
-        "calorieFinal": 100
+        "calorieFinal": 100,
+        "ingredientsSoup": "Tel şehriye, salça, yağ, tuz",
+        "ingredientsMain": "Tavuk Eti, bezelye, havuç, k.soğan, salça, yağ, tuz, karabiber",
+        "ingredientsRice": "Arpa Şehriye, yağ, tuz",
+        "ingredientsFinal": "Yoğurt, salatalık, tuz, k.nane, z.yağ"
     },
     {
         "date": "2020-02-07",
@@ -57,7 +73,11 @@
         "calorieSoup": 140,
         "calorieMain": 347,
         "calorieRice": 236,
-        "calorieFinal": 65
+        "calorieFinal": 65,
+        "ingredientsSoup": "tavuk göğsü, kuru soğan, un , yumurta, havuç, tuz, karabiber, limon suyu",
+        "ingredientsMain": "Dana Eti, Patates, K.soğan, havuç, bezelye, kekik, tuz, yağ",
+        "ingredientsRice": "Bulgur, salça, k.soğan, domates, yağ, tuz, biber, karabiber, nane",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-10",
@@ -69,7 +89,11 @@
         "calorieSoup": 203,
         "calorieMain": 260,
         "calorieRice": 336,
-        "calorieFinal": 85
+        "calorieFinal": 85,
+        "ingredientsSoup": "Pirinç, mercimek, un, yağ, tuz, limon, karabiber, salça, nane",
+        "ingredientsMain": "Tavuk göğüs, havuç, patates, biber, k.soğan, tuz, yağ",
+        "ingredientsRice": "Nohut, pirinç, yağ, tuz",
+        "ingredientsFinal": "Yoğurt, tuz, su"
     },
     {
         "date": "2020-02-11",
@@ -81,7 +105,11 @@
         "calorieSoup": 148,
         "calorieMain": 347,
         "calorieRice": 236,
-        "calorieFinal": 123
+        "calorieFinal": 123,
+        "ingredientsSoup": "Tel şehriye, salça, yağ, tuz",
+        "ingredientsMain": "Dana Eti, domates, biber, salça, kuru soğan, patates, yağ, tuz , karabiber",
+        "ingredientsRice": "Bulgur, salça, k.soğan, domates, yağ, tuz, biber, karabiber, nane",
+        "ingredientsFinal": "Marul, havuç, z.y, tuz, limon"
     },
     {
         "date": "2020-02-12",
@@ -93,7 +121,11 @@
         "calorieSoup": 140,
         "calorieMain": 290,
         "calorieRice": 336,
-        "calorieFinal": 262
+        "calorieFinal": 262,
+        "ingredientsSoup": "tavuk göğsü, kuru soğan, un , yumurta, havuç, tuz, karabiber, limon suyu",
+        "ingredientsMain": "Kuru fasülye, k.soğan, salça, tuz, yağ",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": "Yoğurt, Kırmızı Pancar , zy, mayonez, tuz"
     },
     {
         "date": "2020-02-13",
@@ -105,7 +137,11 @@
         "calorieSoup": 203,
         "calorieMain": 350,
         "calorieRice": 378,
-        "calorieFinal": 225
+        "calorieFinal": 225,
+        "ingredientsSoup": "Pirinç, mercimek, un, yağ, tuz, limon, karabiber, salça, nane",
+        "ingredientsMain": "",
+        "ingredientsRice": "Makarna, salça, tuz, yağ",
+        "ingredientsFinal": "Kuru üzüm, Şeker, su"
     },
     {
         "date": "2020-02-14",
@@ -113,11 +149,15 @@
         "soup": "YOĞURT ÇORBA (NANELİ)",
         "mainCourse": "ETLİ TÜRLÜ (KIŞ)",
         "riceVarieties": "NOHUTLU PİLAV",
-        "finalCourse": "BROWNİ",
+        "finalCourse": "REVANİ",
         "calorieSoup": 134,
         "calorieMain": 325,
         "calorieRice": 336,
-        "calorieFinal": 402
+        "calorieFinal": 402,
+        "ingredientsSoup": "",
+        "ingredientsMain": "Dana Eti, salça, Kuru Soğan, karnabahar, patates, yağ, havuç, tuz, karabiber",
+        "ingredientsRice": "Nohut, pirinç, yağ, tuz",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-17",
@@ -129,7 +169,11 @@
         "calorieSoup": 168,
         "calorieMain": 360,
         "calorieRice": 336,
-        "calorieFinal": 130
+        "calorieFinal": 130,
+        "ingredientsSoup": "Havuç, patates, bezelye, un , yumurta, süt, yağ, tuz, karabiber, limon suyu",
+        "ingredientsMain": "Dana Eti, Yağ, Biber, Domates, Kuru Soğan, Salça, Tuz",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-18",
@@ -141,7 +185,11 @@
         "calorieSoup": 203,
         "calorieMain": 348,
         "calorieRice": 236,
-        "calorieFinal": 65
+        "calorieFinal": 65,
+        "ingredientsSoup": "Pirinç, mercimek, un, yağ, tuz, limon, karabiber, salça, nane",
+        "ingredientsMain": "",
+        "ingredientsRice": "Bulgur, salça, k.soğan, domates, yağ, tuz, biber, karabiber, nane",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-19",
@@ -153,7 +201,11 @@
         "calorieSoup": 148,
         "calorieMain": 385,
         "calorieRice": 336,
-        "calorieFinal": 123
+        "calorieFinal": 123,
+        "ingredientsSoup": "Tel şehriye, salça, yağ, tuz",
+        "ingredientsMain": "Piliç Baget, Patates, Domates, Biber, Yağ, Tuz,",
+        "ingredientsRice": "Pirinç, Safran, yağ, tuz,",
+        "ingredientsFinal": "Marul, havuç, z.y, tuz, limon"
     },
     {
         "date": "2020-02-20",
@@ -165,7 +217,11 @@
         "calorieSoup": 140,
         "calorieMain": 302,
         "calorieRice": 312,
-        "calorieFinal": 100
+        "calorieFinal": 100,
+        "ingredientsSoup": "",
+        "ingredientsMain": "Dana eti, patates, kuru soğan, salça, domates, biber, maydanoz, yağ, tuz",
+        "ingredientsRice": "Erişte, domates, biber, yağ, tuz",
+        "ingredientsFinal": "Yoğurt, salatalık, tuz, k.nane, z.yağ"
     },
     {
         "date": "2020-02-21",
@@ -177,7 +233,11 @@
         "calorieSoup": 183,
         "calorieMain": 330,
         "calorieRice": 391,
-        "calorieFinal": 402
+        "calorieFinal": 402,
+        "ingredientsSoup": "Mercimek, k.soğan Un, Yağ, Limon, Tuz",
+        "ingredientsMain": "Balık, k, soğan, domates, yağ, tuz, roka, limon, turp",
+        "ingredientsRice": "Barbunya, patates, havuç, salça, yağ, tuz, limon, maydanoz,  k, soğan",
+        "ingredientsFinal": "İrmik, Süt, Şeker, Yağ, Tarçın"
     },
     {
         "date": "2020-02-24",
@@ -189,7 +249,11 @@
         "calorieSoup": 203,
         "calorieMain": 390,
         "calorieRice": 336,
-        "calorieFinal": 85
+        "calorieFinal": 85,
+        "ingredientsSoup": "Pirinç, mercimek, un, yağ, tuz, limon, karabiber, salça, nane",
+        "ingredientsMain": "Tavuk, Kırmızı Biber, Yağ, Tuz, Salça",
+        "ingredientsRice": "Pirinç, yağ, bezelye, havuç, tuz",
+        "ingredientsFinal": "Yoğurt, tuz, su"
     },
     {
         "date": "2020-02-25",
@@ -201,7 +265,11 @@
         "calorieSoup": 180,
         "calorieMain": 330,
         "calorieRice": 336,
-        "calorieFinal": 100
+        "calorieFinal": 100,
+        "ingredientsSoup": "K.mercimek, pirinç, un , yağ, salça, limon, tuz",
+        "ingredientsMain": "Dana Eti, Patlıcan, sıvı yağ, salça, kuru soğan, domates, biber, tuz",
+        "ingredientsRice": "Nohut, pirinç, yağ, tuz",
+        "ingredientsFinal": "Yoğurt, salatalık, tuz, k.nane, z.yağ"
     },
     {
         "date": "2020-02-26",
@@ -213,7 +281,11 @@
         "calorieSoup": 140,
         "calorieMain": 285,
         "calorieRice": 378,
-        "calorieFinal": 225
+        "calorieFinal": 225,
+        "ingredientsSoup": "tavuk göğsü, kuru soğan, un , yumurta, havuç, tuz, karabiber, limon suyu",
+        "ingredientsMain": "Karnabahar, kaşar peyniri, un, süt, yumurta, yağ, tuz",
+        "ingredientsRice": "Makarna, salça, tuz, yağ",
+        "ingredientsFinal": "kuru kayısı, şeker, su"
     },
     {
         "date": "2020-02-27",
@@ -225,7 +297,11 @@
         "calorieSoup": 134,
         "calorieMain": 360,
         "calorieRice": 236,
-        "calorieFinal": 65
+        "calorieFinal": 65,
+        "ingredientsSoup": "Yoğurt, pirinç, yumurta, un, yağ, nane, tuz",
+        "ingredientsMain": "Dana Eti, Yağ, Salça, Tuz, Karabiber, Yumurta, Kuru Soğan, ekmek, Maydanoz",
+        "ingredientsRice": "Bulgur, salça, k.soğan, domates, yağ, tuz, biber, karabiber, nane",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-28",
@@ -237,7 +313,11 @@
         "calorieSoup": 148,
         "calorieMain": 335,
         "calorieRice": 336,
-        "calorieFinal": 85
+        "calorieFinal": 85,
+        "ingredientsSoup": "Tel şehriye, salça, yağ, tuz",
+        "ingredientsMain": "",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": "Yoğurt, tuz, su"
     },
     {
         "date": "2020-02-03",
@@ -249,7 +329,11 @@
         "calorieSoup": 203,
         "calorieMain": 260,
         "calorieRice": 336,
-        "calorieFinal": 85
+        "calorieFinal": 85,
+        "ingredientsSoup": "Pirinç, mercimek, un, yağ, tuz, limon, karabiber, salça, nane",
+        "ingredientsMain": "Tavuk göğüs, havuç, patates, biber, k.soğan, tuz, yağ",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": "Yoğurt, tuz, su"
     },
     {
         "date": "2020-02-04",
@@ -261,7 +345,11 @@
         "calorieSoup": 140,
         "calorieMain": 347,
         "calorieRice": 236,
-        "calorieFinal": 123
+        "calorieFinal": 123,
+        "ingredientsSoup": "tavuk göğsü, kuru soğan, un , yumurta, havuç, tuz, karabiber, limon suyu",
+        "ingredientsMain": "Dana Eti, domates, biber, salça, kuru soğan, patates, yağ, tuz , karabiber",
+        "ingredientsRice": "Bulgur, salça, domates, biber, kuru soğan, tuz, karabiber",
+        "ingredientsFinal": "Marul, havuç, k lahana, limon, tuz, z.yağ"
     },
     {
         "date": "2020-02-05",
@@ -273,7 +361,11 @@
         "calorieSoup": 148,
         "calorieMain": 290,
         "calorieRice": 336,
-        "calorieFinal": 130
+        "calorieFinal": 130,
+        "ingredientsSoup": "Tel şehriye, salça, yağ, tuz",
+        "ingredientsMain": "Kuru fasülye, k.soğan, salça, tuz, yağ",
+        "ingredientsRice": "Nohut, pirinç, yağ, tuz",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-06",
@@ -285,7 +377,11 @@
         "calorieSoup": 180,
         "calorieMain": 325,
         "calorieRice": 382,
-        "calorieFinal": 225
+        "calorieFinal": 225,
+        "ingredientsSoup": "K.mercimek, pirinç, un , yağ, salça, limon, tuz",
+        "ingredientsMain": "Dana Eti, salça, Kuru Soğan, karnabahar, patates, yağ, havuç, tuz, karabiber",
+        "ingredientsRice": "Makarna, yumurta, süt, k.peynir, yağ, tuz, un, maydonoz",
+        "ingredientsFinal": "kuru kayısı, şeker, su"
     },
     {
         "date": "2020-02-07",
@@ -297,7 +393,11 @@
         "calorieSoup": 175,
         "calorieMain": 330,
         "calorieRice": 391,
-        "calorieFinal": 470
+        "calorieFinal": 470,
+        "ingredientsSoup": "Un, salça, yağ, tuz, süt, kaşar peyniri",
+        "ingredientsMain": "Balık, k, soğan, domates, yağ, tuz, roka, limon, turp",
+        "ingredientsRice": "Barbunya, patates, havuç, salça, yağ, tuz, limon, maydanoz,  k, soğan",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-10",
@@ -309,7 +409,11 @@
         "calorieSoup": 183,
         "calorieMain": 298,
         "calorieRice": 336,
-        "calorieFinal": 130
+        "calorieFinal": 130,
+        "ingredientsSoup": "Mercimek, k.soğan Un, Yağ, Limon, Tuz",
+        "ingredientsMain": "Nohut, Dana Eti, salça, k.soğan, tuz, yağ",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-11",
@@ -321,7 +425,11 @@
         "calorieSoup": 280,
         "calorieMain": 302,
         "calorieRice": 378,
-        "calorieFinal": 100
+        "calorieFinal": 100,
+        "ingredientsSoup": "Erişte, Yeşil Mercimek, Un. Yumurta, Yağ, Tuz, limon",
+        "ingredientsMain": "Dana eti, patates, havuç, bezelye, kimyon, karabiber, yumurta, kuru soğan, maydanoz, salça, tuz, yağ, yumurta",
+        "ingredientsRice": "Makarna, salça, tuz, yağ",
+        "ingredientsFinal": "Yoğurt, salatalık, tuz, k.nane, z.yağ"
     },
     {
         "date": "2020-02-12",
@@ -333,7 +441,11 @@
         "calorieSoup": 175,
         "calorieMain": 347,
         "calorieRice": 236,
-        "calorieFinal": 65
+        "calorieFinal": 65,
+        "ingredientsSoup": "Un, Salça, Yağ, Süt, Kaşar Peyniri, tuz",
+        "ingredientsMain": "Dana Eti, Patates, K.soğan, havuç, bezelye, kekik, tuz, yağ",
+        "ingredientsRice": "Bulgur, salça, k.soğan, domates, yağ, tuz, biber, karabiber, nane",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-13",
@@ -345,19 +457,27 @@
         "calorieSoup": 134,
         "calorieMain": 285,
         "calorieRice": 236,
-        "calorieFinal": 123
+        "calorieFinal": 123,
+        "ingredientsSoup": "Yoğurt, pirinç, yumurta, un, yağ, nane, tuz",
+        "ingredientsMain": "Tavuk but, salça, tuz.yağ, kekik, patates, karabiber",
+        "ingredientsRice": "Bulgur, salça, k.soğan, domates, yağ, tuz, biber, karabiber, nane",
+        "ingredientsFinal": "Marul, havuç, k lahana, limon, tuz, z.yağ"
     },
     {
         "date": "2020-02-14",
         "meal": 1,
         "soup": "TEL ŞEHRİYE ÇORBA",
-        "mainCourse": "EKŞİLİ KÖFTE",
+        "mainCourse": "KIYMALI PATATES MUSAKKA",
         "riceVarieties": "ARPA ŞEHRİYE PİLAVI",
-        "finalCourse": "BROWNİ",
+        "finalCourse": "ŞEKERPARE",
         "calorieSoup": 148,
-        "calorieMain": 348,
+        "calorieMain": 302,
         "calorieRice": 340,
-        "calorieFinal": 402
+        "calorieFinal": 420,
+        "ingredientsSoup": "Tel şehriye, salça, yağ, tuz",
+        "ingredientsMain": "Dana eti, patates, kuru soğan, salça, domates, biber, maydanoz, yağ, tuz",
+        "ingredientsRice": "Arpa Şehriye, yağ, tuz",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-17",
@@ -369,7 +489,11 @@
         "calorieSoup": 203,
         "calorieMain": 260,
         "calorieRice": 336,
-        "calorieFinal": 85
+        "calorieFinal": 85,
+        "ingredientsSoup": "Pirinç, mercimek, un, yağ, tuz, limon, karabiber, salça, nane",
+        "ingredientsMain": "Tavuk göğüs, havuç, patates, biber, k.soğan, tuz, yağ",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": "Yoğurt, tuz, su"
     },
     {
         "date": "2020-02-18",
@@ -381,7 +505,11 @@
         "calorieSoup": 183,
         "calorieMain": 365,
         "calorieRice": 336,
-        "calorieFinal": 100
+        "calorieFinal": 100,
+        "ingredientsSoup": "Mercimek, k.soğan Un, Yağ, Limon, Tuz",
+        "ingredientsMain": "Dana eti, patlıcan, k.soğan, yağ, salça, domates, biber, tuz",
+        "ingredientsRice": "Kuş üzümü, yağ, tuz, pirinç",
+        "ingredientsFinal": "Yoğurt, salatalık, tuz, k.nane, z.yağ"
     },
     {
         "date": "2020-02-19",
@@ -393,7 +521,11 @@
         "calorieSoup": 140,
         "calorieMain": 298,
         "calorieRice": 336,
-        "calorieFinal": 262
+        "calorieFinal": 262,
+        "ingredientsSoup": "Tavuk göğüs, un, yumurta, süt, limon, tuz,",
+        "ingredientsMain": "Nohut, Dana Eti, salça, k.soğan, tuz, yağ",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": "Yoğurt, Kırmızı Pancar , zy, mayonez, tuz"
     },
     {
         "date": "2020-02-20",
@@ -405,7 +537,11 @@
         "calorieSoup": 203,
         "calorieMain": 347,
         "calorieRice": 236,
-        "calorieFinal": 65
+        "calorieFinal": 65,
+        "ingredientsSoup": "Pirinç, mercimek, un, yağ, tuz, limon, karabiber, salça, nane",
+        "ingredientsMain": "Dana Eti, Patates, K.soğan, havuç, bezelye, kekik, tuz, yağ",
+        "ingredientsRice": "Bulgur, salça, k.soğan, domates, yağ, tuz, biber, karabiber, nane",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-21",
@@ -417,7 +553,11 @@
         "calorieSoup": 280,
         "calorieMain": 385,
         "calorieRice": 391,
-        "calorieFinal": 100
+        "calorieFinal": 100,
+        "ingredientsSoup": "Erişte, Yeşil Mercimek, Un. Yumurta, Yağ, Tuz, limon",
+        "ingredientsMain": "Piliç Göğüs, pirinç, kuş üzümü, dolmalık fıstık, yağ, tuz",
+        "ingredientsRice": "Barbunya, patates, havuç, salça, yağ, tuz, limon, maydanoz,  k, soğan",
+        "ingredientsFinal": "Yoğurt, salatalık, tuz, k.nane, z.yağ"
     },
     {
         "date": "2020-02-24",
@@ -429,7 +569,11 @@
         "calorieSoup": 140,
         "calorieMain": 360,
         "calorieRice": 336,
-        "calorieFinal": 130
+        "calorieFinal": 130,
+        "ingredientsSoup": "tavuk göğsü, kuru soğan, un , yumurta, havuç, tuz, karabiber, limon suyu",
+        "ingredientsMain": "Dana Eti, Yağ, Biber, Domates, Kuru Soğan, Salça, Tuz",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": ""
     },
     {
         "date": "2020-02-25",
@@ -441,7 +585,11 @@
         "calorieSoup": 148,
         "calorieMain": 348,
         "calorieRice": 308,
-        "calorieFinal": 402
+        "calorieFinal": 402,
+        "ingredientsSoup": "Tel şehriye, salça, yağ, tuz",
+        "ingredientsMain": "",
+        "ingredientsRice": "",
+        "ingredientsFinal": "İrmik, Süt, Şeker, Yağ, Tarçın"
     },
     {
         "date": "2020-02-26",
@@ -453,7 +601,11 @@
         "calorieSoup": 183,
         "calorieMain": 330,
         "calorieRice": 390,
-        "calorieFinal": 100
+        "calorieFinal": 100,
+        "ingredientsSoup": "Mercimek, k.soğan Un, Yağ, Limon, Tuz",
+        "ingredientsMain": "",
+        "ingredientsRice": "",
+        "ingredientsFinal": "Yoğurt, salatalık, tuz, k.nane, z.yağ"
     },
     {
         "date": "2020-02-27",
@@ -465,7 +617,11 @@
         "calorieSoup": 185,
         "calorieMain": 302,
         "calorieRice": 336,
-        "calorieFinal": 123
+        "calorieFinal": 123,
+        "ingredientsSoup": "",
+        "ingredientsMain": "Dana eti, patates, kuru soğan, salça, domates, biber, maydanoz, yağ, tuz",
+        "ingredientsRice": "PİRİNÇ, SIVI YAĞ, TUZ",
+        "ingredientsFinal": "Marul, havuç, k lahana, limon, tuz, z.yağ"
     },
     {
         "date": "2020-02-28",
@@ -477,6 +633,10 @@
         "calorieSoup": 203,
         "calorieMain": 330,
         "calorieRice": 236,
-        "calorieFinal": 65
+        "calorieFinal": 65,
+        "ingredientsSoup": "Pirinç, mercimek, un, yağ, tuz, limon, karabiber, salça, nane",
+        "ingredientsMain": "",
+        "ingredientsRice": "Bulgur, salça, k.soğan, domates, yağ, tuz, biber, karabiber, nane",
+        "ingredientsFinal": ""
     }
 ]
