@@ -3,11 +3,11 @@
   "offerBanners": [
     {
       "image": "yeni_kayit_duyuru.gif",
-      "url": "announcement_screen"
+      "url": "/Announcements"
     },
     {
       "image": "lol.gif",
-      "url": "societies_screen"
+      "url": "/Societies"
     }
   ]
 }
