@@ -1,7 +1,13 @@
 {
   "status": true,
   "offerBanners": [
-    "yeni_kayit_duyuru.gif",
-    "lol.gif"
+    {
+      "image": "yeni_kayit_duyuru.gif",
+      "url": "announcement_screen"
+    },
+    {
+      "image": "lol.gif",
+      "url": "societies_screen"
+    }
   ]
 }
